@@ -1,0 +1,21 @@
+.img{
+    /* height: 200px; */
+}
+.img-container{
+    height: 100px ;
+}
+.topic{
+    max-width: 575px;
+}
+.take-quiz{
+    color:white;
+    padding: 3px  15px;
+}
+
+
+/* @media screen and (max-width: 800px) {
+    .topic{
+        width: 80vw;
+    }
+  } */
+
