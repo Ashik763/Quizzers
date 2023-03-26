@@ -1,0 +1,20 @@
+.quesion-name{
+    color:#059862;
+}
+
+.option{
+    display: flex;
+    align-items: center;
+    margin: 2px;
+    border:1px solid #059862;
+    min-height: 40px;
+    cursor:pointer;
+    min-width: 210px;
+}
+.show-answer{
+    color:lightgreen;
+    position: absolute;
+    top:15px;
+    right:0px;
+    cursor: pointer;
+}

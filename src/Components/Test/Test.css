@@ -1,0 +1,14 @@
+.questions-container{
+   width:80vw;
+   margin:auto
+}
+
+.questions{
+    max-width: 650px;
+}
+
+/* .result{
+    top:100px;
+    right:5px;
+    position: fixed;
+} */

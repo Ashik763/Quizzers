@@ -9,6 +9,7 @@ const Topics = () => {
     return (
         <div className='d-flex align-items-center flex-column mt-5 bg-body-tertiary'>
             {
+                
                 // console.log(topics)
                 topics.map( topic => {
                     return <Topic topic = {topic}> </Topic>

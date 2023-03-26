@@ -5,6 +5,9 @@
 .header{
     color:#059862;
 }
+.topic-name{
+    color:#059862
+}
 h2{
     font-family: cursive;
 }
@@ -24,3 +27,7 @@ h2{
         margin-left:20px ;
     }
   }
+
+.active{
+    font-weight: bold;
+}
